@@ -11,7 +11,7 @@
 ### Contacto
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/) [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luis-angel-vazquez-carrillo-a89857181/)
 - - -
-### Tecnologías en la que he trabajado
+### Tecnologías en las que he trabajado
 [![TopL](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVazquezCarrillo&layout=compact)](https://github.com/LuisVazquezCarrillo/github-readme-stats)
 
 ###### FRONT-END
